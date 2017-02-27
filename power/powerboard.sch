@@ -4367,6 +4367,162 @@ High-power, low thermal resistance package.</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="Terminal_Blocks_Connectors_rev15e">
+<description>&lt;BR&gt;Wurth Elektronik - Terminal Block Connectors&lt;br&gt;&lt;Hr&gt;
+&lt;BR&gt;&lt;BR&gt; 
+&lt;TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0&gt;
+&lt;TR&gt;   
+&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;BR&gt;&lt;br&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
+      -----&lt;BR&gt;
+      -----&lt;BR&gt;
+      -----&lt;BR&gt;
+      -----&lt;BR&gt;
+      -----&lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+    &lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt; &lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
+      ---------------------------&lt;BR&gt;
+&lt;B&gt;&lt;I&gt;&lt;span style='font-size:26pt;
+  color:#FF6600;'&gt;WE &lt;/span&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;BR&gt;
+      ---------------------------&lt;BR&gt;&lt;b&gt;Würth Elektronik&lt;/b&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+    &lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
+      ---------O---&lt;BR&gt;
+      ----O--------&lt;BR&gt;
+      ---------O---&lt;BR&gt;
+      ----O--------&lt;BR&gt;
+      ---------O---&lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+   
+&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;BR&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+  &lt;/TR&gt;
+
+  &lt;TR&gt;
+    &lt;TD COLSPAN=7&gt;&amp;nbsp;
+    &lt;/TD&gt;
+  &lt;/TR&gt;
+  
+&lt;/TABLE&gt;
+&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;More than you expect&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;/B&gt;
+
+&lt;HR&gt;&lt;BR&gt;
+&lt;b&gt;Würth Elektronik eiSos GmbH &amp; Co. KG&lt;/b&gt;&lt;br&gt;
+EMC &amp; Inductive Solutions&lt;br&gt;
+
+Max-Eyth-Str.1&lt;br&gt;
+D-74638 Waldenburg&lt;br&gt;
+&lt;br&gt;
+Tel: +49 (0)7942-945-0&lt;br&gt;
+Fax:+49 (0)7942-945-405&lt;br&gt;
+&lt;br&gt;
+&lt;a href="http://www.we-online.com/eagle"&gt;http://www.we-online.com/eagle&lt;/a&gt;&lt;br&gt;
+&lt;a href="mailto:libraries@we-online.com"&gt;libraries@we-online.com&lt;/a&gt; &lt;BR&gt;&lt;BR&gt;
+&lt;br&gt;&lt;HR&gt;&lt;BR&gt;
+Neither CadSoft nor WE-eiSos does warrant that this library is error-free or &lt;br&gt;
+that it meets your specific requirements.&lt;br&gt;&lt;BR&gt;
+Please contact us for more information.&lt;br&gt;&lt;BR&gt;&lt;br&gt;
+&lt;hr&gt;
+Eagle Version 6, Library Revision 2015c, 2015-06-02&lt;br&gt;
+&lt;HR&gt;
+Copyright: Würth Elektronik</description>
+<packages>
+<package name="691244610002">
+<pad name="2" x="5.08" y="0" drill="1.5"/>
+<pad name="1" x="-5.08" y="0" drill="1.5"/>
+<wire x1="-7.62" y1="5.7" x2="7.62" y2="5.7" width="0.127" layer="21"/>
+<wire x1="7.62" y1="-5.5" x2="-7.62" y2="-5.5" width="0.127" layer="21"/>
+<wire x1="7.62" y1="5.7" x2="7.62" y2="-5.5" width="0.127" layer="21"/>
+<wire x1="-7.62" y1="5.7" x2="-7.62" y2="-5.5" width="0.127" layer="21"/>
+<wire x1="-7.87" y1="5.95" x2="7.87" y2="5.95" width="0.127" layer="39"/>
+<wire x1="7.87" y1="5.95" x2="7.87" y2="-5.75" width="0.127" layer="39"/>
+<wire x1="7.87" y1="-5.75" x2="-7.87" y2="-5.75" width="0.127" layer="39"/>
+<wire x1="-7.87" y1="-5.75" x2="-7.87" y2="5.95" width="0.127" layer="39"/>
+<text x="-3.81" y="6.35" size="1.27" layer="25">&gt;Name</text>
+<text x="-3.81" y="-7.62" size="1.27" layer="27">&gt;Value</text>
+</package>
+</packages>
+<symbols>
+<symbol name="2">
+<wire x1="-1.651" y1="0.889" x2="-1.651" y2="-0.889" width="0.254" layer="94" curve="180" cap="flat"/>
+<wire x1="-1.651" y1="-1.651" x2="-1.651" y2="-3.429" width="0.254" layer="94" curve="180" cap="flat"/>
+<text x="1.27" y="0.238" size="1.778" layer="95">&gt;NAME</text>
+<text x="1.27" y="-2.54" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="1" x="-5.08" y="0" visible="pad" length="short" direction="pas"/>
+<pin name="2" x="-5.08" y="-2.54" visible="pad" length="short" direction="pas"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="691244610002" uservalue="yes">
+<description>&lt;br&gt;&lt;b&gt; &lt;br&gt;&lt;b&gt;SERIE 2445 - 10.16 MM - HORIZONTAL CABLE ENTRY WITH
+ RISING CAGE CLAMP - WR-TBL&lt;br&gt;&lt;/b&gt;=&gt;ConTBL2 691244610002
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt; Characteristics
+
+&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/b&gt;INSULATOR:PA6/66
+
+&lt;br&gt;FLAMABILITY RATING: UL94V0
+
+&lt;br&gt;COLOR: GREEN
+
+&lt;br&gt;METAL HOUSING: COPPER ALLOY / Ni+Sn
+
+&lt;br&gt;TERMINAL SCREW: STEEL / Zn
+
+&lt;br&gt;WIRE GUARD: COPPER ALLOY / Ni+Sn
+
+&lt;br&gt;OPERATING TEMPERATURE:-30°C UP TO +120°C
+
+&lt;br&gt;COMPLIANCE: LEAD FREE AND ROHS
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt; ELECTRICAL UL VDE
+
+&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/b&gt;CURRENT RATING: 16A 24A
+
+&lt;br&gt;WORKING VOLTAGE: 300VAC 750VAC
+
+&lt;br&gt;WITHSTANDING VOLTAGE: 1,6KV 3KV
+
+&lt;br&gt;CONTACT RESISTANCE: 20 mOhm max
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;a href="http://katalog.we-online.de/media/images/v2/Family_TBL_10_16_2446_HORIZONTAL_CABLE_ENTRY_W_RISING_CLAMP_69124461000X.jpg"&gt;
+&lt;img src="http://katalog.we-online.de/media/images/v2/Family_TBL_10_16_2446_HORIZONTAL_CABLE_ENTRY_W_RISING_CLAMP_69124461000X.jpg" width="320"&gt;&lt;/a&gt;&lt;p&gt;
+Details see: &lt;a href="http://katalog.we-online.de/en/em/TBL_10_16_2446_HORIZONTAL_CABLE_ENTRY_W_RISING_CLAMP_69124461000X/691244610002"&gt;http://katalog.we-online.de/en/em/TBL_10_16_2446_HORIZONTAL_CABLE_ENTRY_W_RISING_CLAMP_69124461000X/691244610002&lt;/a&gt;&lt;p&gt;
+
+
+&lt;br&gt;&lt;/b&gt;2015 (C) Wurth Elektronik</description>
+<gates>
+<gate name="G$1" symbol="2" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="691244610002">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -4406,6 +4562,12 @@ High-power, low thermal resistance package.</description>
 <part name="R14" library="rcl" deviceset="R-EU_" device="R0805" value="10K"/>
 <part name="R15" library="rcl" deviceset="R-EU_" device="R0805" value="10K"/>
 <part name="F1" library="fuse" deviceset="SH22,5" device=""/>
+<part name="F2" library="fuse" deviceset="SH22,5" device=""/>
+<part name="PWRIN1" library="Terminal_Blocks_Connectors_rev15e" deviceset="691244610002" device=""/>
+<part name="PWRIN2" library="Terminal_Blocks_Connectors_rev15e" deviceset="691244610002" device=""/>
+<part name="OUT1" library="Terminal_Blocks_Connectors_rev15e" deviceset="691244610002" device=""/>
+<part name="OUT2" library="Terminal_Blocks_Connectors_rev15e" deviceset="691244610002" device=""/>
+<part name="OUT3" library="Terminal_Blocks_Connectors_rev15e" deviceset="691244610002" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -4441,6 +4603,12 @@ High-power, low thermal resistance package.</description>
 <instance part="R14" gate="G$1" x="40.64" y="12.7" rot="R90"/>
 <instance part="R15" gate="G$1" x="40.64" y="-48.26" rot="R90"/>
 <instance part="F1" gate="1" x="73.66" y="124.46"/>
+<instance part="F2" gate="1" x="73.66" y="119.38"/>
+<instance part="PWRIN1" gate="G$1" x="132.08" y="106.68"/>
+<instance part="PWRIN2" gate="G$1" x="132.08" y="99.06"/>
+<instance part="OUT1" gate="G$1" x="132.08" y="83.82"/>
+<instance part="OUT2" gate="G$1" x="132.08" y="76.2"/>
+<instance part="OUT3" gate="G$1" x="132.08" y="68.58"/>
 </instances>
 <busses>
 </busses>
@@ -4566,6 +4734,17 @@ High-power, low thermal resistance package.</description>
 <junction x="71.12" y="-58.42"/>
 <wire x1="40.64" y1="-58.42" x2="71.12" y2="-58.42" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="PWRIN2" gate="G$1" pin="2"/>
+<wire x1="127" y1="96.52" x2="124.46" y2="96.52" width="0.1524" layer="91"/>
+<pinref part="PWRIN1" gate="G$1" pin="2"/>
+<wire x1="124.46" y1="96.52" x2="119.38" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="127" y1="104.14" x2="124.46" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="104.14" x2="124.46" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="119.38" y1="96.52" x2="119.38" y2="93.98" width="0.1524" layer="91"/>
+<junction x="124.46" y="96.52"/>
+<label x="119.38" y="91.44" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="N$3" class="0">
 <segment>
@@ -4613,11 +4792,7 @@ High-power, low thermal resistance package.</description>
 <pinref part="OK2" gate="G$1" pin="COL"/>
 <wire x1="25.4" y1="73.66" x2="22.86" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="25.4" y1="88.9" x2="25.4" y2="73.66" width="0.1524" layer="91"/>
-<pinref part="OK3" gate="G$1" pin="COL"/>
-<wire x1="25.4" y1="58.42" x2="22.86" y2="58.42" width="0.1524" layer="91"/>
-<wire x1="25.4" y1="73.66" x2="25.4" y2="58.42" width="0.1524" layer="91"/>
 <junction x="25.4" y="88.9"/>
-<junction x="25.4" y="73.66"/>
 </segment>
 <segment>
 <pinref part="R7" gate="G$1" pin="2"/>
@@ -4630,14 +4805,19 @@ High-power, low thermal resistance package.</description>
 <label x="66.04" y="45.72" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="R11" gate="G$1" pin="2"/>
-<wire x1="71.12" y1="-15.24" x2="71.12" y2="-17.78" width="0.1524" layer="91"/>
-<label x="66.04" y="-15.24" size="1.778" layer="95"/>
-</segment>
-<segment>
 <pinref part="F1" gate="1" pin="2"/>
 <wire x1="78.74" y1="124.46" x2="88.9" y2="124.46" width="0.1524" layer="91"/>
 <label x="91.44" y="124.46" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="OUT1" gate="G$1" pin="1"/>
+<wire x1="127" y1="83.82" x2="124.46" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="83.82" x2="119.38" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="83.82" x2="124.46" y2="76.2" width="0.1524" layer="91"/>
+<pinref part="OUT2" gate="G$1" pin="1"/>
+<wire x1="124.46" y1="76.2" x2="127" y2="76.2" width="0.1524" layer="91"/>
+<junction x="124.46" y="83.82"/>
+<label x="114.3" y="83.82" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$8" class="0">
@@ -4659,6 +4839,11 @@ High-power, low thermal resistance package.</description>
 <pinref part="Q1" gate="G$1" pin="D"/>
 <wire x1="93.98" y1="86.36" x2="93.98" y2="91.44" width="0.1524" layer="91"/>
 <label x="96.52" y="91.44" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="OUT1" gate="G$1" pin="2"/>
+<wire x1="127" y1="81.28" x2="119.38" y2="81.28" width="0.1524" layer="91"/>
+<label x="111.76" y="81.28" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$10" class="0">
@@ -4754,12 +4939,22 @@ High-power, low thermal resistance package.</description>
 <wire x1="93.98" y1="22.86" x2="93.98" y2="27.94" width="0.1524" layer="91"/>
 <label x="96.52" y="27.94" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="OUT2" gate="G$1" pin="2"/>
+<wire x1="127" y1="73.66" x2="119.38" y2="73.66" width="0.1524" layer="91"/>
+<label x="111.76" y="73.66" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="PCH3-2" class="0">
 <segment>
 <pinref part="Q3" gate="G$1" pin="D"/>
 <wire x1="93.98" y1="-38.1" x2="93.98" y2="-33.02" width="0.1524" layer="91"/>
 <label x="96.52" y="-33.02" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="OUT3" gate="G$1" pin="2"/>
+<wire x1="127" y1="66.04" x2="119.38" y2="66.04" width="0.1524" layer="91"/>
+<label x="111.76" y="66.04" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$11" class="0">
@@ -4775,11 +4970,50 @@ High-power, low thermal resistance package.</description>
 <wire x1="22.86" y1="53.34" x2="25.4" y2="53.34" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="12VIN" class="0">
+<net name="12VIN1" class="0">
 <segment>
 <pinref part="F1" gate="1" pin="1"/>
 <wire x1="68.58" y1="124.46" x2="60.96" y2="124.46" width="0.1524" layer="91"/>
 <label x="53.34" y="124.46" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="PWRIN1" gate="G$1" pin="1"/>
+<wire x1="127" y1="106.68" x2="119.38" y2="106.68" width="0.1524" layer="91"/>
+<label x="109.22" y="106.68" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="12VIN2" class="0">
+<segment>
+<pinref part="F2" gate="1" pin="1"/>
+<wire x1="68.58" y1="119.38" x2="60.96" y2="119.38" width="0.1524" layer="91"/>
+<label x="53.34" y="119.38" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="PWRIN2" gate="G$1" pin="1"/>
+<wire x1="127" y1="99.06" x2="119.38" y2="99.06" width="0.1524" layer="91"/>
+<label x="109.22" y="99.06" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="12V2" class="0">
+<segment>
+<pinref part="F2" gate="1" pin="2"/>
+<wire x1="78.74" y1="119.38" x2="88.9" y2="119.38" width="0.1524" layer="91"/>
+<label x="91.44" y="119.38" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="R11" gate="G$1" pin="2"/>
+<wire x1="71.12" y1="-15.24" x2="71.12" y2="-17.78" width="0.1524" layer="91"/>
+<label x="66.04" y="-15.24" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="OUT3" gate="G$1" pin="1"/>
+<wire x1="127" y1="68.58" x2="119.38" y2="68.58" width="0.1524" layer="91"/>
+<label x="111.76" y="68.58" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="OK3" gate="G$1" pin="COL"/>
+<wire x1="25.4" y1="58.42" x2="22.86" y2="58.42" width="0.1524" layer="91"/>
+<label x="25.4" y="58.42" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
